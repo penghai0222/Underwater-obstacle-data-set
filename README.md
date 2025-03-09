@@ -16,5 +16,5 @@ The dataset has been partitioned according to the following proportions:
 • Validation set: 520 images.
 • Test set: 520 images.
 This partitioning approach is designed to ensure the diversity and balance of the dataset, making it suitable for research tasks such as image classification and object detection.
-5. User Instructions 
+4. User Instructions 
 To facilitate data analysis and model training, all image and label files are saved in a standardized format. Users can directly download the dataset and utilize it according to their specific needs.
